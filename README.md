@@ -35,7 +35,7 @@ Quiz Application/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/quiz-application.git
+   git clone https://github.com/VundelaBhavitha/quiz-application.git
 
 **Navigate into the project folder**
 cd quiz-application
